@@ -15,4 +15,8 @@
 ## git
 |Reference|Reference|  
 |:---|:---|
-|[git的一些操作](https://github.com/GRPdream/My-front-end/issues/1)|:---|
+|[git的一些操作](https://github.com/GRPdream/My-front-end/issues/1)|
+## linux的基本操作
+|Reference|Reference|
+|:---|:---|
+|[增，删，进入](https://github.com/GRPdream/My-front-end/issues/2)|
