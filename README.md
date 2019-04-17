@@ -25,4 +25,9 @@
 |Reference|Reference|
 |:---|:---|
 |[解决页面内容溢出的方法](https://github.com/GRPdream/My-front-end/issues/4)|[页面缩进和em,px的区别](https://github.com/GRPdream/My-front-end/issues/5)
-|[弹性布局](https://github.com/GRPdream/My-front-end/issues/6)|
+|[弹性布局](https://github.com/GRPdream/My-front-end/issues/6)|[最大高度(max-height)以及触摸处理(touch-action)](https://github.com/GRPdream/My-front-end/issues/7)|
+
+## Vue
+|Reference|Reference|
+|:---|:---|
+|[vue-resource 传参的方法](https://github.com/GRPdream/My-front-end/issues/8)|
