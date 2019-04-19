@@ -4,7 +4,7 @@
 ## Javascript
 |Reference|Reference|
 |:---|:---|
-|[关于数组的一些方法](https://github.com/GRPdream/My-front-end/issues/9)|
+|[关于数组的一些方法](https://github.com/GRPdream/My-front-end/issues/9)|[关于 Strting 的一些方法](https://github.com/GRPdream/My-front-end/issues/10)|
 
 ## CSS
 |Reference|Reference|
@@ -15,7 +15,7 @@
 ## Vue
 |Reference|Reference|
 |:---|:---|
-|[vue-resource 传参的方法](https://github.com/GRPdream/My-front-end/issues/8)|
+|[vue-resource 传参的方法](https://github.com/GRPdream/My-front-end/issues/8)|[Vue 动画的钩子函数](https://github.com/GRPdream/My-front-end/issues/11)|
 
 ## 正则表达式
 |Reference|Reference|
