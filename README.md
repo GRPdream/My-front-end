@@ -16,6 +16,7 @@
 |Reference|Reference|
 |:---|:---|
 |[vue-resource 传参的方法](https://github.com/GRPdream/My-front-end/issues/8)|[Vue 动画的钩子函数](https://github.com/GRPdream/My-front-end/issues/11)|
+|[Vue 编程式导航 ](https://github.com/GRPdream/My-front-end/issues/12)|
 
 ## 正则表达式
 |Reference|Reference|
