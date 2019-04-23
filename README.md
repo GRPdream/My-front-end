@@ -5,6 +5,7 @@
 |Reference|Reference|
 |:---|:---|
 |[关于数组的一些方法](https://github.com/GRPdream/My-front-end/issues/9)|[关于 Strting 的一些方法](https://github.com/GRPdream/My-front-end/issues/10)|
+|[关于Javascript的几个关于x,y位置的方法](https://github.com/GRPdream/My-front-end/issues/13)|
 
 ## CSS
 |Reference|Reference|
