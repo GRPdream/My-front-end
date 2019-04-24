@@ -17,7 +17,7 @@
 |Reference|Reference|
 |:---|:---|
 |[vue-resource 传参的方法](https://github.com/GRPdream/My-front-end/issues/8)|[Vue 动画的钩子函数](https://github.com/GRPdream/My-front-end/issues/11)|
-|[Vue 编程式导航 ](https://github.com/GRPdream/My-front-end/issues/12)|
+|[Vue 编程式导航 ](https://github.com/GRPdream/My-front-end/issues/12)|[关于 Vue 父子组件传值](https://github.com/GRPdream/My-front-end/issues/14)|
 
 ## 正则表达式
 |Reference|Reference|
