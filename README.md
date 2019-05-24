@@ -23,7 +23,7 @@
 ## React
 |Reference|Reference|
 |:---|:---|
-|[ React 中父子组件的通讯](https://github.com/GRPdream/My-front-end/issues/17)|
+|[ React 中父子组件的通讯](https://github.com/GRPdream/My-front-end/issues/17)|[React 中的 prop-types ](https://github.com/GRPdream/My-front-end/issues/18)|
 
 ## 正则表达式
 |Reference|Reference|
